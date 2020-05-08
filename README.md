@@ -12,7 +12,7 @@ To use the project as-is:
 4. Start window_hijack_cli using the following pattern: `window_hijack_cli.exe [window_class_name]`
 
 ## Details
-You can read a full write-up at: https://secret.club/2020/05/03/abusing-compositions.html
+You can read a full write-up at: https://secret.club/2020/05/13/abusing-compositions.html
 
 ## Credits
 paracord (yousif), IChooseYou
