@@ -2,7 +2,7 @@
 Rendering on external windows via hijacking thread contexts
 
 ## Usage
-If you plan on manual mapping this driver, or using it on a game with an anti-cheat then you'll need to make some modifications, these are left for you.
+If you plan on manual mapping this driver, or using it on a game with an anti-cheat then you'll need to make some modifications, these are left for you to do.
 
 To use the project as-is:
 
