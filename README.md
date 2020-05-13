@@ -1,6 +1,6 @@
 # Window Hijack
 Rendering on external windows via hijacking thread contexts.
-You can read a full write-up at: https://secret.club/2020/05/13/abusing-compositions.html
+You can read a full write-up at: https://secret.club/2020/05/12/abusing-compositions.html
 
 ## Usage
 If you plan on manual mapping this driver, or using it on a game with an anti-cheat then you'll need to make some modifications, these are left for you to do.
