@@ -9,7 +9,7 @@ To use the project as-is:
 
 1. Enable test-signing mode
 2. Compile in Release x64
-3. Load the driver using any traditional driver loder
+3. Load the driver using any traditional driver loader
 4. Start window_hijack_cli using the following pattern: `window_hijack_cli.exe [window_class_name]`
 
 ## Credits
