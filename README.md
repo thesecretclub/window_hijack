@@ -17,3 +17,5 @@ paracord (yousif), IChooseYou
 
 ## Changes
 Added notes to what is necessary for this to work inside of a manually mapped driver, and describes why it only works in the IOCTL handler.
+
+The notes can be located in window_hijack\includes\dispatch\control.cpp.
